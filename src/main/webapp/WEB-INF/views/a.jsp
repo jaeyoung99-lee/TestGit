@@ -5,6 +5,7 @@
 <head>
 <meta charset="EUC-KR">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="og:image" content="./res/증명사진.png">
 <title>Insert title here</title>
 </head>
 <body>
