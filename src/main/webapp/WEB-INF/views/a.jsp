@@ -13,5 +13,6 @@
 	<img src="./res/1.jpg" width="300" border="5">
 	<h1>CICD 자동 배포 시스템 구축 완료!</h1>
 	<img src="./res/꾸벅인사.gif" width="300">
+	<h1>춘식입니다.</h1>
 </body>
 </html>
